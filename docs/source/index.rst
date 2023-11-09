@@ -1,25 +1,18 @@
-Welcome to Lumache's documentation!
+欢迎来到306的文档!
 ===================================
 
 哈喽！
-Lumache has its documentation hosted on Read the Docs.
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
-
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+请大家查看 :doc:`C++团队开发规范` 一起开发更加健壮的代码！
 
 .. note::
 
-   This project is under active development.
+   本规范参考F-35系列战机C++开发规范
 
 Contents
 --------
 
 .. toctree::
 
-   usage
+   C++团队开发规范
    api
